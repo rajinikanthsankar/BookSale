@@ -1,0 +1,6 @@
+C:\Users\Radha Rajini Kanth\Desktop\proj\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Radha Rajini Kanth\Desktop\proj\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Radha Rajini Kanth\Desktop\proj\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Radha Rajini Kanth\Desktop\proj\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\Radha Rajini Kanth\Desktop\proj\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Radha Rajini Kanth\Desktop\proj\BookStore\BookStore\obj\Debug\BookStore.pdb
