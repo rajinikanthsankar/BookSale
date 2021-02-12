@@ -22,6 +22,7 @@ namespace BookStore
     {
         Crime = 1,
         Romance = 2,
-        Fantasy = 3
+        Fantasy = 3,
+        thriller = 4
     }
 }
