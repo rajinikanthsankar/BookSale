@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/rajinikanth1978/Getting%20Started/_apis/build/status/BP2/Getting%20Started-ASP.NET-CI?branchName=main)](https://dev.azure.com/rajinikanth1978/Getting%20Started/_build/latest?definitionId=3&branchName=main)
